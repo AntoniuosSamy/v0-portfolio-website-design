@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "title": "Antoniuos Samy Aziz | Software Tester",
+    "description": "QA Engineer specializing in manual testing, automation with Selenium, and API testing. Cairo, Egypt."
+  },
+  "personal": {
+    "name": "Antoniuos Samy Aziz",
+    "title": "Software Tester",
+    "location": "Cairo, Egypt",
+    "avatar": "/antoniuos-profile.jpg",
+    "email": "antonuossamy10@gmail.com",
+    "phone": "+20 128 9024 782",
+    "availableForWork": true,
+    "badges": [
+      "QA Testing",
+      "Automation",
+      "Selenium",
+      "API Testing"
+    ],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/AntoniuosSamy",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/antoniuos-samy",
+        "icon": "Linkedin"
+      }
+    ]
+  },
+  "about": {
+    "bio": "Quality Assurance Engineer dedicated to bridging the gap between manual precision and automated efficiency. My journey started with a simple question: What if this breaks? I combine manual testing expertise with robust Selenium automation to ensure reliable, high-quality software that users can trust.",
+    "focus": [
+      "Engineering-driven QA with Java and Selenium automation",
+      "Comprehensive API testing and database validation",
+      "Root cause analysis and defect lifecycle management",
+      "Agile team collaboration for continuous software improvement"
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇪🇬"
+      },
+      {
+        "name": "English",
+        "proficiency": "Upper-Intermediate (B2)",
+        "level": 75,
+        "flag": "🇬🇧"
+      },
+      {
+        "name": "French",
+        "proficiency": "Basic",
+        "level": 30,
+        "flag": "🇫🇷"
+      }
+    ],
+    "interests": [
+      "Chess",
+      "Swimming",
+      "Football",
+      "Quality Assurance",
+      "Automation Testing"
+    ]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Freelance Software Tester",
+      "company": "Self-Employed",
+      "period": "Feb 2026 - Present",
+      "description": "Executing functional and regression tests across various web and mobile applications. Documenting high-quality bug reports with clear reproduction steps, screenshots, and crash logs. Collaborating with QA leads and onboarding managers to refine testing strategies and ensure adherence to professional testing standards.",
+      "achievements": [
+        "Identified and documented critical defects in production environments",
+        "Created comprehensive bug reports that reduced developer resolution time by 30%",
+        "Maintained 95%+ accuracy in test case execution and defect reporting"
+      ],
+      "technologies": [
+        "Manual Testing",
+        "Functional Testing",
+        "Regression Testing",
+        "Bug Reporting",
+        "JIRA"
+      ]
+    },
+    {
+      "title": "Junior Software Tester",
+      "company": "Digital Egypt Pioneers Initiative (DEPI)",
+      "period": "Nov 2025 - Present",
+      "description": "Designing and executing manual and automated test cases using Java and Selenium to ensure software reliability. Performing functional, regression, and API testing to validate system behavior and endpoint accuracy. Tracking and managing software defects using JIRA with clear documentation.",
+      "achievements": [
+        "Designed 50+ comprehensive test cases across multiple modules",
+        "Automated critical user workflows with Selenium, reducing regression testing time by 40%",
+        "Collaborated within Agile teams following SCRUM ceremonies for continuous improvement"
+      ],
+      "technologies": [
+        "Selenium",
+        "Java",
+        "API Testing",
+        "Database Testing",
+        "JIRA",
+        "Postman"
+      ]
+    },
+    {
+      "title": "Automation Testing Practice",
+      "company": "Self-Development",
+      "period": "2025",
+      "description": "Dedicated personal projects to build expertise in test automation. Built automated test scripts using Selenium to validate web application workflows and practiced API testing to verify endpoints, status codes, and responses.",
+      "achievements": [
+        "Created reusable test automation frameworks reducing manual effort",
+        "Achieved 80%+ test coverage for sample applications",
+        "Developed expertise in Selenium WebDriver, Page Object Model patterns, and CI/CD integration"
+      ],
+      "technologies": [
+        "Selenium WebDriver",
+        "Java",
+        "Postman",
+        "API Testing",
+        "Test Automation"
+      ]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Software Testing Track",
+        "issuer": "Digital Egypt Pioneers Initiative (DEPI)",
+        "date": "2025-2026",
+        "logo": "/depi-logo.jpg"
+      },
+      {
+        "name": "Web Development Certificate",
+        "issuer": "Udacity",
+        "date": "2022",
+        "logo": "/generic-military-logo.png"
+      },
+      {
+        "name": "ICDL Certification",
+        "issuer": "International Computer Driving License",
+        "date": "2015",
+        "logo": "/ideo-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science (Second Year)",
+        "institution": "Cairo University - Faculty of Science",
+        "year": "2023-Present",
+        "logo": "/cairo-university-logo.jpg"
+      }
+    ],
+    "skills": [
+      "Test Case Design",
+      "Bug Reporting",
+      "Defect Lifecycle Management",
+      "Agile/SCRUM"
+    ]
+  },
+  "technicalSkills": {
+    "testing": [
+      "Manual Testing",
+      "Automation Testing",
+      "Functional Testing",
+      "Regression Testing",
+      "Exploratory Testing",
+      "API Testing",
+      "Database Testing",
+      "Performance Testing"
+    ],
+    "tools": [
+      "Selenium WebDriver",
+      "JIRA",
+      "Postman",
+      "Git",
+      "GitHub",
+      "MySQL",
+      "SQLite",
+      "Fedora Linux",
+      "Flutter"
+    ],
+    "programming": [
+      "Java",
+      "C",
+      "C++",
+      "Dart",
+      "JavaScript",
+      "HTML/CSS"
+    ],
+    "softSkills": [
+      "Communication",
+      "Problem-solving",
+      "Adaptability",
+      "Time Management",
+      "Self-learning",
+      "Teamwork",
+      "Root Cause Analysis"
+    ]
+  }
+}
